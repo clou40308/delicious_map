@@ -8,6 +8,7 @@ class DeliciousMapApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
